@@ -1,16 +1,49 @@
-### Hi there 👋
 
-<!--
-**Matthewpco/Matthewpco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello I'm Matthew 🙋‍♂️ 
+### 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome and thank you for visiting my GitHub! 
+
+I am a Full-Stack Developer and IT Operations Specialist based in Boulder, Colorado.
+
+I have spent over 20 years analyzing, innovating, and supporting technology for top companies such as Honda, Nissan, Ford, Chevrolet, Dodge, Applebee's, Fannie Mae and Freddie Mac.
+
+
+
+<br>
+
+## ⚡ What I Know
+- Front-End
+    - HTML 5
+    - CSS 3
+    - Bootstrap 4
+- Back-End
+    - Javascript
+    - Python 3
+    - Flask
+    - SQL
+
+<br>
+
+## 📜 Education
+- Harvard CS50 Graduate
+- Certified Responsive Web Developer by FCC
+- Trained in International Law at UCLouvain
+- Compliance training from Wharton School of Business
+- Certifications in IT Operations from: CompTIA, Google, IBM, and Amazon.
+
+<br>
+
+## 🚀 Where I'm Going
+- Continuing education at Harvard earning Professional Web Dev Certification
+- Taking courswork on Data structures and Algorithms from UC San Diego
+
+<br>
+
+## 🔒 License
+
+
+
+Copyright Dec 2020 : Matthew Payne
