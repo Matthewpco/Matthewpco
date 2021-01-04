@@ -6,9 +6,9 @@
 
 Welcome and thank you for visiting my GitHub! 
 
-I am a Full-Stack Developer and IT Operations Specialist based in Boulder, Colorado.
+I am a Front End Developer in Boulder, Colorado.
 
-I have spent over 20 years analyzing, innovating, and supporting technology for top companies such as Honda, Nissan, Ford, Chevrolet, Dodge, Applebee's, Fannie Mae and Freddie Mac.
+I have spent years developing websites and applications for a rnage of business. I create custom Wordpress themese and manage content, plugins, and email marketing.
 
 [ Check Out My Website](https://matthewpco.github.io/)
 
@@ -30,17 +30,14 @@ I have spent over 20 years analyzing, innovating, and supporting technology for 
 <br>
 
 ## 📜 Education
-- Harvard CS50 Graduate
+- Computer Science and Web Development from Harvard
 - Certified Responsive Web Developer by FCC
-- Trained in International Law at UCLouvain
-- Compliance training from Wharton School of Business
-- Certifications in IT Operations from: CompTIA, Google, IBM, and Amazon.
+- Deisgn and Marketing from the University of Colorado Boulder
 
 <br>
 
 ## 🚀 Where I'm Going
-- Continuing education at Harvard earning Professional Web Dev Certification
-- Taking courswork on Data structures and Algorithms from UC San Diego
+- Learning new technologies and frameworks everyday as i design, develop, and manage Responsive Web Sites and Apps.
 
 <br>
 
