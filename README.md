@@ -8,7 +8,7 @@ Welcome and thank you for visiting my GitHub!
 
 I am a Front End Developer in Boulder, Colorado.
 
-I have spent years developing websites and applications for a rnage of business. I create custom Wordpress themese and manage content, plugins, and email marketing.
+I have spent years developing websites and applications for a rnage of business. I create custom Web Sites, Wordpress themes, manage content, plugins, and email marketing.
 
 [ Check Out My Website](https://matthewpco.github.io/)
 
@@ -20,12 +20,15 @@ I have spent years developing websites and applications for a rnage of business.
 - Front-End
     - HTML 5
     - CSS 3
-    - Bootstrap 4
+    - Scss
+    - Bootstrap 
+
 - Back-End
     - Javascript
-    - Python 3
+    - Python 
     - Flask
     - SQL
+    - PHP
 
 <br>
 
@@ -38,11 +41,3 @@ I have spent years developing websites and applications for a rnage of business.
 
 ## 🚀 Where I'm Going
 - Learning new technologies and frameworks everyday as i design, develop, and manage Responsive Web Sites and Apps.
-
-<br>
-
-## 🔒 License
-
-
-
-Copyright Dec 2020 : Matthew Payne
