@@ -8,7 +8,7 @@ Welcome and thank you for visiting my GitHub!
 
 I am a Front End Developer in Boulder, Colorado.
 
-I have spent years developing websites and applications for a rnage of business. I create custom Web Sites, Wordpress themes, manage content, plugins, and email marketing.
+I have spent years developing websites and applications from scratch, as well as editing and maintaining existing websites and dynamic applications. I build custom Web Sites, Wordpress themes, manage content, modify plugins, and create email marketing.
 
 [ Check Out My Website](https://matthewpco.github.io/)
 
@@ -30,6 +30,10 @@ I have spent years developing websites and applications for a rnage of business.
     - SQL
     - PHP
 
+- Key Skills
+    - Wordpress Development
+    - Custom Web Sites
+    - Project Management from Design to Development
 <br>
 
 ## 📜 Education
