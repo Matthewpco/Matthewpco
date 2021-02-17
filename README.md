@@ -6,7 +6,7 @@
 
 Welcome and thank you for visiting my GitHub! 
 
-I am a Front End Developer in Boulder, Colorado.
+I am a Full Stack Developer in Boulder, Colorado.
 
 I have spent years developing custom websites and apps from scratch, as well as editing and maintaining existing websites and dynamic applications. I build custom Web Sites, Wordpress themes, manage content, modify plugins, and create email marketing.
 
