@@ -8,9 +8,9 @@ Welcome and thank you for visiting my GitHub!
 
 I am a Full Stack Developer in Boulder, Colorado.
 
-I have spent years developing custom websites and apps from scratch, as well as editing and maintaining existing websites and dynamic applications. I build custom Web Sites, Wordpress themes, manage content, modify plugins, and create email marketing. Currently working on NASCAR's latest and greatest web designs.
+I have spent years developing custom websites and apps from scratch, as well as editing and maintaining existing websites and dynamic applications. I build custom Web Sites, Wordpress themes, manage content, modify plugins, and create email marketing. I have recently been working on NASCAR's latest and greatest web designs.
 
-[ Check Out My Website](https://matthewpco.github.io/)
+[ Check Out My Website](https:/www.wpwebdevelopment.com)
 
 
 
