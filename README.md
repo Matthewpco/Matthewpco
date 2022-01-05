@@ -6,7 +6,7 @@
 
 Welcome and thank you for visiting my GitHub! 
 
-I am a Full Stack Developer in Boulder, Colorado.
+I am a Senior Full-Stack Developer in Boulder, Colorado.
 
 I have spent 10 years designing and developing websites, themes, and plugins from scratch, as well as updating existing projects. I have worked with companies like NASCAR, Motorsport Games, Intel, Microsoft, and Honda. 
 
