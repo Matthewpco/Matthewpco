@@ -6,7 +6,7 @@
 
 Welcome and thank you for visiting my GitHub! 
 
-I am a Senior Full-Stack Developer in Boulder, Colorado.
+I am a Senior Full-Stack Developer in the El Dorado Hills of California.
 
 I have spent 10 years designing and developing websites, themes, and plugins from scratch, as well as updating existing projects. I have worked with companies like NASCAR, Motorsport Games, Intel, Microsoft, and Honda. 
 
@@ -20,15 +20,17 @@ I have spent 10 years designing and developing websites, themes, and plugins fro
 - Front-End
     - HTML 5
     - CSS 3
-    - Scss
+    - SASS
+    - JavaScript
     - Bootstrap 
+    - React
 
 - Back-End
-    - Javascript
+    - MySQL
+    - PHP
     - Python 
     - Flask
-    - SQL
-    - PHP
+    - Django
 
 - Key Skills
     - Wordpress Development
