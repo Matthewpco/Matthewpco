@@ -17,6 +17,7 @@ My career in tech spans over 10 years in the tech industry developing, designing
     - HTML 5
     - CSS 3
     - JavaScript
+    - jQuery
     - Bootstrap 
     - React
 
@@ -28,6 +29,7 @@ My career in tech spans over 10 years in the tech industry developing, designing
     - Flask
     - Django
     - GraphQL
+    - API's
 
 - Key Skills
     - Wordpress Development
